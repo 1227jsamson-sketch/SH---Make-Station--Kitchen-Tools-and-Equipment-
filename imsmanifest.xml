@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">RSDP 1 - Make-up Station (Kitchen Tools and Equipment)</langstring>
+          <langstring xml:lang="x-none">RSDP 1 - Make-up Station </langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="RSDP_1_-_Make-up_Station_(Kitchen_Tools_and_Equipment)_ORG">
-    <organization identifier="RSDP_1_-_Make-up_Station_(Kitchen_Tools_and_Equipment)_ORG">
-      <title>RSDP 1 - Make-up Station (Kitchen Tools and Equipment)</title>
+  <organizations default="RSDP_1_-_Make-up_Station__ORG">
+    <organization identifier="RSDP_1_-_Make-up_Station__ORG">
+      <title>RSDP 1 - Make-up Station </title>
       <item identifier="RSDP_1_-_Decentralized_Training_SCO" isvisible="true" identifierref="__5gH93L0sXHM_course_id_RES">
-        <title>RSDP 1 - Make-up Station (Kitchen Tools and Equipment)</title>
+        <title>RSDP 1 - Make-up Station </title>
         <adlcp:masteryscore>90</adlcp:masteryscore>
       </item>
     </organization>
