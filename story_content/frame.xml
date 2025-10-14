@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="RSDP 1 - Make-up Station " />
+              <option name="title_text" value="RSDP 1 - NEW Make Up (Kitchen Tools and Equipment)" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -21,21 +21,21 @@
           </option>
           <option name="sidebar_enabled" value="false">
             <options>
-              <option name="sidebarpos" value="right" />
+              <option name="sidebarpos" value="left" />
               <option name="closed" value="false" />
             </options>
           </option>
           <optionlist name="tabs">
             <listitems>
               <listitem name="resources" value="false" group="linkright" />
-              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="elapsed" />
+              <option name="time_format" value="" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -47,7 +47,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="locked" />
+          <option name="flow" value="free" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -67,7 +67,7 @@
           <option name="pauseplay" value="false" />
           <option name="replay" value="false" />
           <option name="search" value="false" />
-          <option name="closed_captions" value="true">
+          <option name="closed_captions" value="false">
             <options>
               <option name="font" value="Open Sans" />
             </options>
@@ -1100,6 +1100,17 @@
           </color>
         </group_colors>
       </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
     </colorscheme>
   </colorschemes>
   <string_tables>
@@ -1164,26 +1175,23 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5yvqYwZnI1B" displaytext="RSDP 1 - Make-up Station: Kitchen Tools and Equipment" expand="true" type="slide">
+        <slidelink slideid="_player.6LzaT7X4uT9" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5yvqYwZnI1B.6WyVfbQPR4i" displaytext="Make-up Station (Kitchen Tools and Equipment)" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.6G3rUd3OFAR" displaytext="Objectives" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.6XwmlYn84sx" displaytext="Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.60nrqhdvhuf" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.5o7pZAE99OD" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.6YofoSqMNgJ" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.6J4dSCKXwjg" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.5iTvH40XSr5" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.5oYfomBkKXE" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.6RrCAAZmlfL" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.5i5lUMI21iz" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.6nGjSCGjDgC" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.5zS63yrkZHj" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.6eoSliSWmDX" displaytext="Kitchen Tools and Equipment" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.5wAj392GHdb" displaytext="Knowledge Check" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.6VwYadaUEeq" displaytext="Knowledge Check" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.6ebaVlJ6NOe" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5yvqYwZnI1B.5xQ951SIXSQ" displaytext="Draw from Kitchen Tools and Equipment" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6E4oUIUqFIZ" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6QcylLuavZu" displaytext="Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6GUm4Ua7SSz" displaytext="Equipment" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6ntGaaroseb" displaytext="D,M,MC,MS" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6EWtSki9COm" displaytext="BPMC,TCS,LA,SPO" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.5aiwzMnG94y" displaytext="PT,RU,DWS,FC" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.5q7Yn6Qb33t" displaytext="PZS,MB,RS,SP" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6CHIbpajdpL" displaytext="FT,CO,CB,BNK" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6evMgUAcMHs" displaytext="GCB,GKK,RCB,RKK" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.5VoEiokP52q" displaytext="AIRTIGHT,AIRTIGHT,AIRTIGHT,CFP" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.5mqDxGknN7O" displaytext="CLR,PERFOR,PASBR,ROLLD" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.5dhuGBpE9lu" displaytext="CO,SB,DT,KS" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6osbWnOolDX" displaytext="OVAL,DP,PL" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6HCgKyaj2vN" displaytext="OVEM,DHG,SP,SQP" expand="false" type="slide" />
+            <slidelink slideid="_player.6LzaT7X4uT9.6oBAG7OEWI1" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
